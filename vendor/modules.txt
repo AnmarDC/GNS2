@@ -1,0 +1,15 @@
+# github.com/Azure/go-amqp v0.18.1
+## explicit; go 1.18
+github.com/Azure/go-amqp
+github.com/Azure/go-amqp/internal/bitmap
+github.com/Azure/go-amqp/internal/buffer
+github.com/Azure/go-amqp/internal/debug
+github.com/Azure/go-amqp/internal/encoding
+github.com/Azure/go-amqp/internal/frames
+github.com/Azure/go-amqp/internal/shared
+# github.com/amenzhinsky/iothub v0.9.1
+## explicit; go 1.18
+github.com/amenzhinsky/iothub/common
+github.com/amenzhinsky/iothub/eventhub
+github.com/amenzhinsky/iothub/iotservice
+github.com/amenzhinsky/iothub/logger
